@@ -1,0 +1,53 @@
+Here’s a **concise yet comprehensive** list of optimal settings for DeGeNz Lounge, categorized for usability:
+
+---
+
+### **1. User Preferences**
+- **Theme**: Dark/Light/System Default  
+- **Font Size**: Small/Medium/Large  
+- **Density**: Compact/Cozy/Spacious (UI spacing)  
+- **Time Format**: 12h/24h  
+
+### **2. Agent Settings**
+- **Default Model**: Gemini Flash 2.0 /  / Claude (dropdown)  
+- **Temperature**: Slider (0.1 to 1.0 for creativity control)  
+- **Max Tokens**: Input field (e.g., 1024)  
+- **Auto-Save**: On/Off (save new agents to library automatically)  
+
+### **3. Sandbox Controls**
+- **Manager Agent Style**: Strict/Collaborative/Automatic  
+- **Conflict Resolution**: Auto-Resolve/Prompt User/Delegate to Manager  
+- **Shared Memory**: Session-only/24h/7d (retention period)  
+
+### **4. Notifications**
+- **Alerts**:  
+  - Task Completed (Push/Email/None)  
+  - Conflict Detected (Popup/Toast/None)  
+- **Do Not Disturb**: Schedule (e.g., 10PM–8AM)  
+
+### **5. Data & Privacy**
+- **Data Storage**: Local/Supabase/Google Drive  
+- **Auto-Delete Chats**: After 7d/30d/Never  
+- **RAG Sources**: Whitelist domains for web scraping  
+
+### **6. Integration**
+- **API Keys**: Gemini/OpenAI/Anthropic/DeepSeek/Grok/OpenRouter/MistralAI/Perplexity (encrypted fields)  
+- **Webhooks**: Slack/Discord/Telegram/MS Teams (URL input)  
+- **Export Format**: JSON/CSV/Markdown  
+
+### **7. Accessibility**
+- **High Contrast Mode**: On/Off  
+- **Keyboard Shortcuts**: Customizable list  
+- **Screen Reader**: Optimize for NVDA/JAWS  
+
+### **8. Admin (If Applicable)**
+- **User Roles**: Viewer/Editor/Admin  
+- **Agent Approval**: Enable/Disable (for team workspaces)  
+- **Usage Analytics**: On/Off (track agent performance)  
+
+---
+
+**Key Design Notes:**  
+- **Search Bar**: All settings pages (quick access).  
+- **Tooltips**: Brief explanations on hover (e.g., "Temperature = randomness").  
+- **Reset Defaults**: Button per section.  

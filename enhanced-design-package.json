@@ -1,0 +1,7 @@
+{
+  "name": "enhanced-design",
+  "scripts": {
+    "build": "webpack --config webpack.enhanced-design.config.js",
+    "start": "webpack serve --config webpack.enhanced-design.config.js"
+  }
+}

@@ -1,0 +1,40 @@
+Here’s the optimized preset system for DeGeNz Lounge:
+
+---
+
+### **Preset Settings (One-Click Apply)**
+| Preset | Temp | Tokens | Manager Style | Conflict Res. | Visual Indicator | Best For |
+|--------|------|--------|--------------|--------------|-----------------|----------|
+| **Creative** | 0.8 | 1024 | Collaborative | Debate & Vote | 🎨 Purple Sparkle | Brainstorming, Writing |
+| **Efficient** | 0.3 | 512 | Strict | Auto-Resolve | ⚡ Yellow Bolt | Coding, Data Tasks | 
+| **Developer** | 0.5 | 768 | Automatic | Suggest Fixes | 💻 Blue Terminal | Debugging, Analysis |
+
+### **Custom Preset Options**
+1. **Save Current Config**  
+   - Name your preset (e.g., "Legal Review Mode")  
+   - Shares icon/color picker  
+2. **Manage Presets**  
+   - Edit/delete custom presets  
+   - Export as JSON  
+
+---
+
+### **UI Implementation**  
+1. **Preset Selector**  
+   - Dropdown in settings with:  
+     - Icons + labels (Creative/Efficient/Developer)  
+     - "Custom" section (user-added presets)  
+2. **Active Preset Indicator**  
+   - Status bar pill (e.g., `🎨 Creative Mode`)  
+   - Tooltip on hover: "Conflicts: Debate | Tokens: 1024"  
+
+---
+
+**Key Features**  
+- 3s undo after applying presets  
+- Presets sync across devices  
+- Admin can lock presets in team workspaces  
+
+(Word count: 198 | Clear visual hierarchy in UI)  
+
+Need preset templates for specific roles (e.g., "Marketer")?
